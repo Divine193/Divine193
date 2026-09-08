@@ -30,7 +30,7 @@ I bridge the gap between actuarial principles and modern data science. I special
 
 ### 📂 Featured Projects & Experience
 * **[Zovu](https://github.com/OyeyipoEmmanuel/zovu):** Served as the ML Engineer, Developed data generation scripts and user scoring logic for a trade credit and matching project.
-* **[Telecom Churn Classification](https://github.com/YOUR_USERNAME/YOUR_CHURN_REPO_NAME):** Built a predictive machine learning model to evaluate customer retention as a capstone project.
+* **[Telecom Churn Classification](https://github.com/Divine193/TS-ACADEMY-CAPSTONE-PROJECT):** Built a predictive machine learning model to evaluate customer retention as a capstone project.
 * **Actuarial Research:** Researched and hosted roundtable discussions on insurance industry recapitalization and reinsurance structures.
 * **Ambassadorship:** Campus Ambassador for Cowrywise, advocating for financial literacy.
 
