@@ -8,7 +8,7 @@ I bridge the gap between actuarial principles and modern data science. I special
 * 🎓 I'm currently studying **Actuarial Science** at the University of Lagos.
 * 💡 I'm deeply interested in understanding user behavior and evaluating predictive metrics to optimize risk management.
 * 🏆 **Recent Milestone:** Completed a rigorous 100-Day Data Analytics & Science challenge and secured a DataCamp scholarship.
-* 🗣️ **Community & Leadership:** Active in the Actuarial Society (focusing on Enterprise Risk Management) and serving as Treasurer for Krawdwise.
+* 🗣️ **Community & Leadership:** Active in the Actuarial Society (focusing on Enterprise Risk Management) and serving as Treasurer for Krawdwise(A voluntary Club in my school).
 * ⚡ **Outside of data:** You'll find me doing calisthenics, analyzing anime power scaling and narratives (from *Naruto* to *One Piece😂*).
 
 ### 🛠️ Tech Stack & Tools
@@ -29,7 +29,7 @@ I bridge the gap between actuarial principles and modern data science. I special
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📂 Featured Projects & Experience
-* **[Zovu](https://github.com/YOUR_USERNAME/YOUR_ZOVU_REPO_NAME):** Developed data generation scripts and user scoring logic for a trade credit and matching project.
+* **[Zovu](https://github.com/OyeyipoEmmanuel/zovu):** Developed data generation scripts and user scoring logic for a trade credit and matching project.
 * **[Telecom Churn Classification](https://github.com/YOUR_USERNAME/YOUR_CHURN_REPO_NAME):** Built a predictive machine learning model to evaluate customer retention as a capstone project.
 * **Actuarial Research:** Researched and hosted roundtable discussions on insurance industry recapitalization and reinsurance structures.
 * **Ambassadorship:** Campus Ambassador for Cowrywise, advocating for financial literacy.
