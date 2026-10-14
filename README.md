@@ -1,44 +1,27 @@
-# Hi there, I'm Divine! 🚀
+# Hi there, I'm Divinefavour 👋
 
-**Actuarial Science Student | Data & Risk Analyst**
+I am an Actuarial Science undergraduate at the University of Lagos, bridging the gap between data analytics, product management, and **Enterprise Risk Management (ERM)**. I am passionate about leveraging quantitative models and data-driven strategies to solve complex risk, financial, and operational challenges.
 
-I bridge the gap between actuarial principles and modern data science. I specialize in quantitative product analytics, risk modeling, and machine learning, with a strong interest in solving complex problems within the fintech and insurtech spaces.
+### 🎯 What I'm currently focused on:
+* **Enterprise Risk Management:** Deepening my expertise in quantitative risk scoring, corporate risk governance, and stress testing.
+* **Leadership & Product:** Serving as the Head of the Enterprise Risk Management Division (Actuarial Society, UNILAG).
+* **Continuous Learning:** Expanding my knowledge of machine learning algorithms and advanced statistical modeling in Python.
 
-### 👨‍💻 About Me
-* 🎓 I'm currently studying **Actuarial Science** at the University of Lagos.
-* 💡 I'm deeply interested in understanding user behavior and evaluating predictive metrics to optimize risk management.
-* 🏆 **Recent Milestone:** Completed a rigorous 100-Day Data Analytics & Science challenge and secured a DataCamp scholarship.
-* 🗣️ **Community & Leadership:** Active in the Actuarial Society (focusing on Enterprise Risk Management) and serving as Treasurer for Krawdwise(A voluntary Club in my school).
-* ⚡ **Outside of data:** You'll find me doing calisthenics, analyzing anime power scaling and narratives (from *Naruto* to *One Piece😂*).
+### 🛠️ Tech Stack & Domain Expertise
+* **Languages & Databases:** Python, SQL (PostgreSQL)
+* **Tools & Environments:** Jupyter, VS Code, DBeaver, Microsoft Excel (Dashboards, Pivot Tables).
+* **Core Competencies:** Enterprise Risk Management, Actuarial & Financial Mathematics, Predictive Modeling, Machine Learning (Regression, Classification) Product Management.
 
-### 🛠️ Tech Stack & Tools
+### 🏆 Certifications & Milestones
+* **Data Analytics Certificate** – Nexus (October 2026)
 
-**Languages & Databases:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 📈 Highlighted Experience & Projects
+* **Head of ERM Division** @ Actuarial Society, UNILAG – Leading curriculum design and divisional strategy for enterprise risk frameworks.
+* **Data Analyst** @ Nexus Fellowship Internship – Conducted user interviews, survey research, and structured product pitch materials for my capstone project.
+* **Predictive Modeling:** Built machine learning models for telecom customer churn classification and medical insurance cost prediction using regression and cross-validation techniques.
 
-**Analytics & Machine Learning:**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### ⚡ Beyond the Code
+When I'm not building risk frameworks or analyzing data, you can find me working out and watching anime.
 
-**Tools & Environments:**
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📂 Featured Projects & Experience
-* **[Zovu](https://github.com/Divine193/zovu):** Served as the ML Engineer, Developed data generation scripts and user scoring logic for a trade credit and matching project.
-* **[Telecom Churn Classification](https://github.com/Divine193/TS-ACADEMY-CAPSTONE-PROJECT):** Built a predictive machine learning model to evaluate customer retention as a capstone project.
-* **Actuarial Research:** Researched and hosted roundtable discussions on insurance industry recapitalization and reinsurance structures.
-* **Ambassadorship:** Campus Ambassador for Cowrywise, advocating for financial literacy.
-
-### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=000000" alt="GitHub Stats" />
-</div>
-
-### 📫 Let's Connect!
-<a href="mailto:ukadivinefavour@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/divinefavour-uka-a5b319256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/divine56624"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+---
+📫 **Let's connect:** https://www.linkedin.com/in/divinefavour-uka-a5b319256/?isSelfProfile=true | ✉️ ukadivinefavour@gmail.com
