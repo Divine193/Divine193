@@ -13,7 +13,7 @@ I am an Actuarial Science undergraduate at the University of Lagos, bridging the
 * **Core Competencies:** Enterprise Risk Management, Actuarial & Financial Mathematics, Predictive Modeling, Machine Learning (Regression, Classification) Product Management.
 
 ### 🏆 Certifications & Milestones
-[![Nexus Certificate](https://img.shields.io/badge/Certificate-Nexus_Data_Analytics-007EC6)](https://drive.google.com/file/d/1EOwpmt5UkS07UJXZZKXh6tV6V75qdQSf/view?usp=sharing)
+[![Nexus Certificate](https://img.shields.io/badge/Certificate-Nexus_Data_Analytics-007EC6)](https://drive.google.com/file/d/1Xkdhg7IXSp-ZFdaI-n9aUmiQhuxPOj6g/view?usp=sharing)
 
 ### 📈 Highlighted Experience & Projects
 * **Head of ERM Division** @ Actuarial Society, UNILAG – Leading curriculum design and divisional strategy for enterprise risk frameworks.
