@@ -24,4 +24,6 @@ I am an Actuarial Science undergraduate at the University of Lagos, bridging the
 When I'm not building risk frameworks or analyzing data, you can find me working out and watching anime.
 
 ---
-📫 **Let's connect:** https://www.linkedin.com/in/divinefavour-uka-a5b319256/?isSelfProfile=true | ✉️ ukadivinefavour@gmail.com
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divinefavour-uka-a5b319256/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ukadivinefavour@gmail.com)
