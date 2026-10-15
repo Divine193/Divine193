@@ -4,7 +4,7 @@ I am an Actuarial Science undergraduate at the University of Lagos, bridging the
 
 ### 🎯 What I'm currently focused on:
 * **Enterprise Risk Management:** Deepening my expertise in quantitative risk scoring, corporate risk governance, and stress testing.
-* **Leadership & Product:** Serving as the Head of the Enterprise Risk Management Division (Actuarial Society, UNILAG).
+* **Leadership:** Serving as the Head of the Enterprise Risk Management Division (Actuarial Society, UNILAG).
 * **Continuous Learning:** Expanding my knowledge of machine learning algorithms and advanced statistical modeling in Python.
 
 ### 🛠️ Tech Stack & Domain Expertise
@@ -16,7 +16,7 @@ I am an Actuarial Science undergraduate at the University of Lagos, bridging the
 [![Nexus Certificate](https://img.shields.io/badge/Certificate-Nexus_Data_Analytics-007EC6)](https://drive.google.com/file/d/1Xkdhg7IXSp-ZFdaI-n9aUmiQhuxPOj6g/view?usp=sharing)
 
 ### 📈 Highlighted Experience & Projects
-* **Head of ERM Division** @ Actuarial Society, UNILAG – Leading curriculum design and divisional strategy for enterprise risk frameworks.
+* **Head of ERM Division** @ Actuarial Society, UNILAG – Educating the students on Industry Standard Enterprise Risk Frameworks.
 * **Data Analyst** @ Nexus Fellowship Internship – Conducted user interviews, survey research, and structured product pitch materials for my capstone project.
 * **Predictive Modeling:** Built machine learning models for telecom customer churn classification and medical insurance cost prediction using regression and cross-validation techniques.
 
